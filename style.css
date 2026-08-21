@@ -128,7 +128,7 @@ h2 {
 }
 
 .nav-inner {
-  background-image: url('imagens/veloFundo.png');
+  background-color: var(--navy);
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 24px;
@@ -224,7 +224,6 @@ h2 {
   align-items: center;
   justify-content: center;
   background: url('imagens/veloFundo.png') center/cover no-repeat;
-  background-color: var(--navy);
 }
 
 .hero-overlay {
